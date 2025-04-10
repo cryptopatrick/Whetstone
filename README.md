@@ -24,4 +24,4 @@ to sharpen my skills as a technologist.
 7. Statistical Learning
 
 ## Blog
-My ambition is to blog as often as possible, over at htt://www.cryptopatrick.com
+My ambition is to blog as often as possible, over at https://www.cryptopatrick.com
